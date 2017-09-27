@@ -1,4 +1,4 @@
-package com.propertyfinder;
+package com.rntemplate;
 
 import android.app.Application;
 
